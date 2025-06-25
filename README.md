@@ -36,7 +36,7 @@
 ### 📫 Let's Connect
 
 - 🐙 GitHub: [github.com/cybersivabalank](https://github.com/cybersivabalank)  
-- 💬 Telegram: [@smartsiva](https://t.me/Mr_siva) *(if you want to include)*  
+- 💬 Telegram: [@Mr_siva](https://t.me/Mr_siva) 
 - 🌐 Portfolio: Coming Soon...
 
 ---
